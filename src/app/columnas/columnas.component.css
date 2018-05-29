@@ -1,0 +1,25 @@
+#col1{
+    margin-top: 25px;
+    padding-right: 0px;
+    
+}
+
+#col2{
+    border-radius: 12px;
+    border-left: 8px solid lightskyblue;
+    padding-left: 0px;
+    border-top: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+
+#col3{
+    position: relative;
+    padding: 70px 0;
+    text-align: center;
+}
+
+#col4{
+    border: 1px solid lightgray;
+    border-radius: 12px;
+}
