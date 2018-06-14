@@ -1,5 +1,5 @@
 <mat-button-toggle-group class = "borde-azul" name="fontStyle" aria-label="Font Style" vertical>
-  <mat-button-toggle value="bold">Local</mat-button-toggle>
-  <mat-button-toggle value="italic">Drive</mat-button-toggle>
-  <mat-button-toggle value="underline">Gmail</mat-button-toggle>
+  <mat-button-toggle value="Local" (click)="localDrive()" >Local</mat-button-toggle>
+  <mat-button-toggle value="Drive" (click)="googleDrive()">Drive</mat-button-toggle>
+  <mat-button-toggle value="Gmail" (click)="gmailDrive()">Gmail</mat-button-toggle>
 </mat-button-toggle-group>

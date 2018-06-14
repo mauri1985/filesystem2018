@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ColumnasComponent implements OnInit {
 
+  
+
   constructor() { }
 
   ngOnInit() {

@@ -2,7 +2,7 @@ import {FlatTreeControl} from '@angular/cdk/tree';
 import {Component, Injectable} from '@angular/core';
 import {MatTreeFlatDataSource, MatTreeFlattener} from '@angular/material/tree';
 import {BehaviorSubject, Observable, of as observableOf} from 'rxjs';
-
+import { crawl } from './archivos.js';
 /**
  * File node data with nested structure.
  * Each node has a filename, and a type or a list of children.
@@ -124,6 +124,10 @@ export class FileDatabase {
   providers: [FileDatabase]
 })
 export class TreeFlatOverviewExample {
+
+  mostrarCrawl(){
+    crawl();
+  }
 
   treeControl: FlatTreeControl<FileFlatNode>;
 

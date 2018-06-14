@@ -21,3 +21,22 @@
 [0528/174119.643:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
 [0528/174119.643:ERROR:exception_snapshot_win.cc(88)] thread ID 10180 not found in process
 [0528/174119.643:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0529/140129.475:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.475:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0529/140129.491:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0529/140129.491:ERROR:exception_snapshot_win.cc(88)] thread ID 9512 not found in process
+[0529/140129.491:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
